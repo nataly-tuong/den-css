@@ -1,0 +1,12 @@
+body {
+  background: url("https://products.ls.graphics/mesh-gradients/images/36.-Pale-Chestnut.jpg");
+  font-size: 18px;
+  color: #33353d;
+}
+
+div#commentBox {
+  background-color: #f2f4f9;
+  border-radius: 10px;
+  border: solid #dae3f0 1px;
+  box-shadow: 2px 2px 1px #bcc8df;
+}
