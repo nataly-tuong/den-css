@@ -10,3 +10,12 @@ div#commentBox {
   border: solid #dae3f0 1px;
   box-shadow: 2px 2px 1px #bcc8df;
 }
+
+div#pageContainer {
+  background-color: #dde2ee;
+}
+
+.topbar {
+  background-color: #2b2b31;
+  border-radius: 10px;
+}
