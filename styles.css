@@ -13,9 +13,23 @@ div#commentBox {
 
 div#pageContainer {
   background-color: #dde2ee;
+  padding: 3px;
 }
 
 .topbar {
   background-color: #2b2b31;
   border-radius: 10px;
+  padding: 3px;
+}
+
+.navbar {
+  background-color: #2b2b31;
+  border-top-right-radius: 10px;
+  color: #ffffff;
+}
+
+.xlarge {
+  background-color: #2b2b31;
+  border-top-right-radius: 10px;
+  color: #ffffff;
 }
